@@ -1,0 +1,25 @@
+{
+    "name": "Twitch Claim",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "Twitch Claim",
+    "homepage_url": "https://www.twitch.tv/",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      },
+    "background": {
+    "scripts": [
+    "background.js"
+    ],
+    "persistent": true
+    },
+    "browser_action": {
+    "default_title": "Twitch Claim"
+    },
+    "permissions": [
+    "https://www.twitch.tv/",
+    "tabs"
+    ]
+}
