@@ -22,9 +22,9 @@ Colete mais moedas e as troque por interações ou em prêmios na loja do stream
 
 ## - ATUALIZAÇÕES / UPDATES
 
-29/01/2021 - Foi trocado a notificação de alerta por uma barra no final da página, ambos informam que o programa começou a funcionar em background.<br/>
+**29/01/2021** - Foi trocado a notificação de alerta por uma barra no final da página, ambos informam que o programa começou a funcionar em background.<br/>
 
-Antes/Before:<br/>
-<img src="https://i.imgur.com/tluqnIr.png" width="500"><br/>
-Depois/After:<br/>
-<img src="https://i.imgur.com/eWQTXoK.png" width="1000"><br/>
+**Antes/Before** <br/><br/>
+<img src="https://i.imgur.com/tluqnIr.png" width="500"><br/><br/>
+**Depois/After** <br/><br/>
+<img src="https://i.imgur.com/eWQTXoK.png" width="1000"><br/><br/>
