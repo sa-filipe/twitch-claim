@@ -1,7 +1,19 @@
-// this is the code which will be injected into a given page...
-(async function() {
+// Barra inferior com informações
+(function() {
 
-    alert('Claim Started!');
+    var div = document.createElement('div');
+    div.style.color = '#fafbfc';
+    div.style.width = '100%';
+    div.style.padding = '1px';
+    div.style.fontWeight = 'bold';
+    div.style.textAlign = 'center';
+    div.textContent = '🟣 TWITCH.TV 🟣⠀⠀"Twitch Claim Extension" is running on background!⠀⠀Check for updates⠀⠀https://github.com/sa-filipe/twitch-rewards-claim';
+    document.body.appendChild(div);
+    
+})();
+
+// Loop da coleta
+(async function() {
 
     var i = 0;
     var className = 'tw-button tw-button--success'; 
@@ -20,6 +32,6 @@
         } else {
             await sleep(1000);
         }
-    } while (i <= 9999999999999999);
+    } while (i <= 9999999999);
     
 })();
