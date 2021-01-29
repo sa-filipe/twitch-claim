@@ -1,4 +1,4 @@
-# ![twitch](https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png) Twitch Rewards Claim (chrome extension)
+# ![twitch](https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png) Twitch Claim (chrome extension)
 
 ![twitch](https://i.imgur.com/aJ87Pwp.png)
 
