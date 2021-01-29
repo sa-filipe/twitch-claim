@@ -18,3 +18,13 @@ Colete mais moedas e as troque por interações ou em prêmios na loja do stream
 3 - Ative o "Modo de desenvolvedor";<br/>
 4 - Arraste a pasta para a página das extensões;<br/>
 5 - Pronto! Aproveite a extensão, basta clicar nela quando estiver na página de uma transmissão ao vivo.<br/>
+
+
+## - ATUALIZAÇÕES / UPDATES
+
+29/01/2021 - Foi trocado a notificação de alerta por uma barra no final da página, ambos informam que o programa começou a funcionar em background.<br/>
+
+Antes/Before:<br/>
+<img src="https://i.imgur.com/tluqnIr.png" width="500"><br/>
+Depois/After:<br/>
+<img src="https://i.imgur.com/eWQTXoK.png" width="1000"><br/>
